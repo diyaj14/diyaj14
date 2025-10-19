@@ -1,4 +1,4 @@
-## Hi there,
+
 
 <!--
 **diyaj14/diyaj14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- README.md -->
 
-<h1 align="center">✨ Hey there, I'm <span style="color:#4fa3ff">Diya Joshy</span> 👋</h1>
+<h1 align="center">Hey there, I'm <span style="color:#4fa3ff">Diya Joshy</span> 👋</h1>
 
 <p align="center">
   <em>CSE - AI Undergraduate | Tech Explorer </em>
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 💡 About Me  
+### About Me  
 
 I’m a **Computer Science & Engineering (AI)** undergraduate passionate about exploring how technology can shape the future.  
 🎓 **Harvard’s CS50 Graduate** — gained strong foundations in computer science and hands-on coding experience.  
@@ -32,7 +32,7 @@ I’m a **Computer Science & Engineering (AI)** undergraduate passionate about e
 
 ---
 
-### 🧠 Tech Stack  
+###  Tech Stack  
 
 #### 🖥️ Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
