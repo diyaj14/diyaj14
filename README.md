@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 <h1 align="center">Hey there, I'm <span style="color:#4fa3ff">Diya Joshy</span> 👋</h1>
 
 <p align="center">
-  <em>CSE - AI Undergraduate | Tech Explorer </em>
+  <em>CSE - AI Student | Tech Explorer </em>
 </p>
 
 ---
 
 ### About Me  
 
-I’m a **Computer Science & Engineering (AI)** undergraduate passionate about exploring how technology can shape the future.  
+I’m a **Computer Science & Engineering (AI)** student passionate about exploring how technology can shape the future.  
 🎓 **Harvard’s CS50 Graduate** — gained strong foundations in computer science and hands-on coding experience.  
 
 
